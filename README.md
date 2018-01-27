@@ -13,5 +13,5 @@ In addition, there is another text field with the text from a digitized edition 
 
 When a line is finished, both versions of the transcribed line (and, if necessary, derived versions) are written to a database, and a new line is selected. 
 
-Currently, only the 
+Until now, only the two input fields have been implemented. 
 
